@@ -1,2 +1,2 @@
-[submodule "git@github.com:levart/hybrid-monorepo-shell.git"]
-	url = /shell
+[submodule "shell"]
+	url = git@github.com:levart/hybrid-monorepo-shell.git
