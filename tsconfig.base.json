@@ -14,9 +14,6 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {
-      "@test/shell": ["apps/shell/src/index.ts"]
-    }
   },
   "exclude": ["node_modules", "tmp"]
 }
