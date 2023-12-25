@@ -2,4 +2,5 @@
   path = packages/shell
 	url = git@github.com:levart/hybrid-monorepo-shell.git
 [submodule "packages/onboarding"]
+  path = packages/onboarding
 	url = git@github.com:levart/hybrid-monorepo-onboarding.git
